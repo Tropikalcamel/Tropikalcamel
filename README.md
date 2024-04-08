@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Tropikalcamel
+- 👀 I’m love to code an make sounds...
+- 🌱 I’m a junior full stack web devloper 
+- 📫 send me some flowers ...
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
