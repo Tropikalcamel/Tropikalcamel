@@ -2,5 +2,10 @@
 - 👀 I’m love to code an make sounds...
 - 🌱 I’m a junior full stack web devloper 
 - 📫 send me some flowers ...
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+- 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,css,react,ruby,rails, js,html, bootstrap," />
+  </a>
+</p>
 
